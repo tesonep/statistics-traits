@@ -37,14 +37,14 @@ New Version
 ===========
 
 All Image:
-Lines: 824745
-Classes: 6339
-Methods: 91753
+Lines: 819041
+Classes: 6362
+Methods: 91139
 
 Kernel:
-Lines: 147248
-Classes: 694
-Methods: 13937
+Lines: 124642
+Classes: 587
+Methods: 11040
 
 
 Difference
