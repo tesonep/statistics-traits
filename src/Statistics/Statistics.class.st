@@ -176,10 +176,10 @@ Statistics >> printNewStatisticsOn: aStream [
 		cr.
 	
 	aStream nextPutAll: 'All Image:'; cr.
-	self printPackages: oldAllPackages on: aStream.
+	self printPackages: newAllPackages on: aStream.
 
 	aStream cr;nextPutAll: 'Kernel:'; cr.	
-	self printPackages: oldKernelPackages on: aStream.
+	self printPackages: newKernelPackages on: aStream.
 	
 	aStream cr; cr.
 	
